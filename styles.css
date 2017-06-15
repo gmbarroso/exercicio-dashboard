@@ -1,0 +1,70 @@
+body{
+  background-color: #4286f4;
+  padding: 0px;
+}
+
+h2 {
+  color: orange;
+}
+
+/*h3 {
+  padding-top: 50px;
+}*/
+
+ul {
+  padding-left: 10px;
+  list-style: none;
+}
+
+li{
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+a{
+  color:white;
+}
+
+a:hover{
+  color: orange;
+  text-decoration: none;
+}
+
+
+/*não deu certo*/
+/*form .basicos .end {
+  margin-top: 30px;
+}*/
+
+.basicos {
+  margin-top: 30px;
+}
+
+/*também não deu certo*/
+/*.end {
+  margin-top: 100px;
+}*/
+
+/*.pad{
+  padding-left: 0px;
+}*/
+
+.endiv {
+  margin-top: 40px;
+}
+
+.coluna-esquerda{
+  color: white;
+}
+
+.coluna-direita{
+  background-color: white;
+  height: 100vh;
+}
+
+.botao {
+
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+
+}
